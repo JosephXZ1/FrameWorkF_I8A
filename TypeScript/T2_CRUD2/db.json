@@ -1,3 +1,5 @@
+//NOTA: Para que funcione se instala (almenos asi lo hice yo) JSON-server localmente con el comando 'npm init -y' y luego 'npm install json-server' y luego 'npx json-server --watch db.json' en CMD/PowerShell (no se pusieron las carpetas respectivas porque eran miles de archivos y github no permitía añadir todos al mismo tiempo)
+
 {
   "usuarios": [
     {

@@ -1,0 +1,20 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "Sergio",
+      "edad": 36
+    },
+    {
+      "nombre": "LaCobra",
+      "edad": "28",
+      "id": "uCBvwoC6vYM"
+    },
+    {
+      "nombre": "Davo",
+      "edad": "24",
+      "id": "Xf2bC1GeLrg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
